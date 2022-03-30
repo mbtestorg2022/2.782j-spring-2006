@@ -6,6 +6,7 @@ description: 'Lecture slides about biomaterials-tissue interactions, response to
   wear particles.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/ab0de660954f74605f5b9551d083bd83_ch7_biocompat.pdf
 file_type: application/pdf
+parent_uid: 16a16164-5586-dea6-69fa-e6ecc85a88a2
 resourcetype: Document
 title: ch7_biocompat.pdf
 uid: ab0de660-954f-7460-5f5b-9551d083bd83
